@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Authelia](https://github.com/authelia/authelia)
-- 🌱 I’m currently learning about [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html)
+- 🌱 I’m currently learning about [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) and [OAuth 2.0](https://oauth.net/2/)
 - 📫 How to reach me: [@james.elliott:matrix.org](https://matrix.to/#/@james.elliott:matrix.org)
 
 ### Repositories
