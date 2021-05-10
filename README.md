@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Authelia](https://github.com/authelia/authelia)
 - 🌱 I’m currently learning about [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html)
-- 📫 How to reach me: @james.elliott:matrix.org
+- 📫 How to reach me: [@james.elliott:matrix.org](https://matrix.to/#/@james.elliott:matrix.org)
 
 ### Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=authelia&repo=authelia&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
