@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Authelia](https://github.com/authelia/authelia)
-- 🌱 I’m currently learning about [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html), [OAuth 2.0](https://oauth.net/2/), [SAML 2.0](http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0-cd-02.html), and [Webauthn](https://w3c.github.io/webauthn/).
+- 🌱 I’m currently learning about [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html), [OAuth 2.0](https://oauth.net/2/), [SAML 2.0](http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0-cd-02.html), and [WebAuthn](https://w3c.github.io/webauthn/).
 - 📫 How to reach me: [@james:authelia.com](https://matrix.to/#/@james:authelia.com)
 
 ### Repositories
