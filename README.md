@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Authelia](https://github.com/authelia/authelia) and the go [Webauthn Library](https://github.com/go-webauthn/webauthn)
+- 🔭 I’m currently working on [Authelia](https://github.com/authelia/authelia), the go [WebAuthn Library](https://github.com/go-webauthn/webauthn), and the go [Crypt Library](https://github.com/go-crypt/crypt)
 - 🌱 I’m currently learning about [OpenID Connect 1.0](https://openid.net/specs/openid-connect-core-1_0.html), [OAuth 2.0](https://oauth.net/2/), [OAuth 2.1](https://oauth.net/2.1/), [SAML 2.0](http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0-cd-02.html), and [WebAuthn](https://w3c.github.io/webauthn/).
 - 👯 I’m looking to collaborate on designing some reusable graphics for the [Authelia Blog](https://www.authelia.com/blog/)
 - 💬 Ask me about security, security related, and technical related questions
