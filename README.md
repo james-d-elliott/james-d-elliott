@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Authelia](https://github.com/authelia/authelia) (go + react), the [WebAuthn Library](https://github.com/go-webauthn/webauthn) (go), and the go [Crypt Library](https://github.com/go-crypt/crypt) (go).
-- 🎓 I’m a subject matter expert on [WebAuthn](https://w3c.github.io/webauthn/), [OAuth 2.0](https://oauth.net/2/), [OAuth 2.1](https://oauth.net/2.1/), [JOSE](https://datatracker.ietf.org/wg/jose/documents/), [OpenID Connect 1.0](https://openid.net/specs/openid-connect-core-1_0.html).
+- 🎓 I’m a subject matter expert on [WebAuthn](https://w3c.github.io/webauthn/), [OAuth 2.0](https://oauth.net/2/), [OAuth 2.1](https://oauth.net/2.1/), [JOSE](https://datatracker.ietf.org/wg/jose/documents/), and [OpenID Connect 1.0](https://openid.net/specs/openid-connect-core-1_0.html).
 - 🌱 I’m currently learning about [SAML 2.0](http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0-cd-02.html), and [Kerberos](https://datatracker.ietf.org/group/krb-wg/documents/).
 - 👯 I’m looking to collaborate on designing some reusable graphics for the [Authelia Blog](https://www.authelia.com/blog/).
 - 💬 Ask me about security, security related, and technical related questions.
