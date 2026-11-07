@@ -1,0 +1,59 @@
+{
+  "login": "james-d-elliott",
+  "host": "authelia",
+  "since": 2013,
+  "name_art": [
+    "     ██╗ █████╗ ███╗   ███╗███████╗███████╗    ███████╗██╗     ██╗     ██╗ ██████╗ ████████╗████████╗",
+    "     ██║██╔══██╗████╗ ████║██╔════╝██╔════╝    ██╔════╝██║     ██║     ██║██╔═══██╗╚══██╔══╝╚══██╔══╝",
+    "     ██║███████║██╔████╔██║█████╗  ███████╗    █████╗  ██║     ██║     ██║██║   ██║   ██║      ██║",
+    "██   ██║██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║    ██╔══╝  ██║     ██║     ██║██║   ██║   ██║      ██║",
+    "╚█████╔╝██║  ██║██║ ╚═╝ ██║███████╗███████║    ███████╗███████╗███████╗██║╚██████╔╝   ██║      ██║",
+    " ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝    ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝      ╚═╝"
+  ],
+  "whoami": {
+    "gid": ["authelia", "go-webauthn", "go-crypt", "go-krb5", "go-spop"],
+    "groups": ["openid-foundation", "aisa"],
+    "role": "security engineer · maintainer · identity protocols",
+    "speaks": "WebAuthn · OAuth 2.0/2.1 · OpenID Connect 1.0 · JOSE · SAML 2.0 · Kerberos · SCIM 2.0",
+    "tz": "Australia/Melbourne",
+    "status": "shipping passkeys"
+  },
+  "links": [
+    {"label": "matrix", "sub": "@james:authelia.com", "url": "https://matrix.to/#/@james:authelia.com"},
+    {"label": "authelia", "sub": "authelia.com", "url": "https://www.authelia.com"},
+    {"label": "sponsor", "sub": "github.com/sponsors/james-d-elliott", "url": "https://github.com/sponsors/james-d-elliott"}
+  ],
+  "own_orgs": ["authelia", "go-webauthn", "go-crypt", "go-krb5", "go-spop"],
+  "flagship": "authelia/authelia",
+  "projects": [
+    {"repo": "authelia/authelia"},
+    {"repo": "go-webauthn/webauthn"},
+    {"repo": "go-krb5/krb5"},
+    {"repo": "go-crypt/crypt"},
+    {"repo": "go-spop/spop"},
+    {"repo": "authelia/oauth2-provider"},
+    {"repo": "authelia/saml-provider", "description": "SAML 2.0 provider framework for Go."},
+    {"repo": "authelia/jose-provider"}
+  ],
+  "downloads": {
+    "docker_hub": "authelia/authelia",
+    "ghcr": "https://github.com/authelia/authelia/pkgs/container/authelia",
+    "github_releases": ["authelia/authelia"]
+  },
+  "standards": {
+    "certifications": [
+      {"name": "OpenID Certified", "subject": "authelia/authelia", "detail": "OpenID Connect 1.0 provider"},
+      {"name": "FIDO2 Conformant", "subject": "go-webauthn/webauthn", "detail": "WebAuthn relying party library"}
+    ],
+    "memberships": ["OpenID Foundation", "Australian Information Security Association"],
+    "implements": [
+      "RFC 6749 OAuth 2.0", "RFC 7636 PKCE", "RFC 7009 Token Revocation", "RFC 7662 Introspection",
+      "RFC 8414 AS Metadata", "RFC 9126 PAR", "RFC 7515-7519 JOSE", "RFC 4120 Kerberos V5",
+      "OpenID Connect Core 1.0", "OpenID Connect Discovery", "W3C WebAuthn", "SAML 2.0"
+    ]
+  },
+  "jwt": {
+    "roles": ["maintainer", "security-engineer", "OIDF member"],
+    "amr": ["webauthn", "oauth2", "oidc", "jose", "saml", "krb5"]
+  }
+}
