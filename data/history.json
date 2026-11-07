@@ -1,0 +1,20 @@
+[
+ {
+  "date": "2026-11-07",
+  "downloads": {
+   "docker_hub": 86637740,
+   "ghcr": 10943879,
+   "github_releases": 195515
+  },
+  "stars": {
+   "authelia/authelia": 29580,
+   "go-webauthn/webauthn": 1359,
+   "go-krb5/krb5": 18,
+   "go-crypt/crypt": 27,
+   "go-spop/spop": 0,
+   "authelia/oauth2-provider": 12,
+   "authelia/saml-provider": 1,
+   "authelia/jose-provider": 1
+  }
+ }
+]
